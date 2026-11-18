@@ -8,7 +8,7 @@ import streamlit as st
 import folium
 from streamlit_folium import st_folium
 import statsmodels.api as sm
-
+with
 st.set_page_config(page_title='Chicago Gun Violence & Healthcare', page_icon='🏙️', layout='wide')
 ROOT=Path(__file__).parent/'data'
 @st.cache_data
