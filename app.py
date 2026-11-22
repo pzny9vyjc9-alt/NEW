@@ -11,7 +11,7 @@ import statsmodels.api as sm
 from io import BytesIO
 
 NAVY = '#06264A'
-TEAL = '#079DB5'
+GREEN = '#079DB5'
 TURQUOISE = '#20B5C6'
 LAVENDER = '#8B83CF'
 RED = '#C84459'  # Reserved for fatal victims and adverse rate changes
